@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="72" viewBox="0 0 64 72">
+  <defs>
+    <clipPath id="clip-QCB_Homepage_1.1_-_AR_6">
+      <rect width="64" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="QCB_Homepage_1.1_-_AR_6" data-name="QCB | Homepage – 1.1 - AR – 6" clip-path="url(#clip-QCB_Homepage_1.1_-_AR_6)">
+    <rect width="64" height="72" fill="#fff"/>
+    <g id="loupe" transform="translate(9.833 13.833)">
+      <g id="Group_3" data-name="Group 3">
+        <g id="Group_2" data-name="Group 2">
+          <path id="Path_2" data-name="Path 2" d="M18.376,0A18.376,18.376,0,1,0,36.752,18.376,18.4,18.4,0,0,0,18.376,0Zm0,33.36A14.984,14.984,0,1,1,33.359,18.376,15,15,0,0,1,18.376,33.36Z" fill="#8f1537"/>
+        </g>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(24.345 24.345)">
+        <g id="Group_4" data-name="Group 4">
+          <path id="Path_3" data-name="Path 3" d="M370.277,366.622,355.458,351.8a2.584,2.584,0,1,0-3.655,3.655l14.819,14.819a2.584,2.584,0,0,0,3.655-3.655Z" transform="translate(-351.046 -351.046)" fill="#8f1537"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

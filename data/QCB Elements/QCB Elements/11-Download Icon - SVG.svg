@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="72" viewBox="0 0 64 72">
+  <defs>
+    <clipPath id="clip-QCB_Homepage_1.1_-_AR_8">
+      <rect width="64" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="QCB_Homepage_1.1_-_AR_8" data-name="QCB | Homepage – 1.1 - AR – 8" clip-path="url(#clip-QCB_Homepage_1.1_-_AR_8)">
+    <rect width="64" height="72" fill="#fff"/>
+    <g id="Solid" transform="translate(-9 -5)">
+      <path id="Path_179" data-name="Path 179" d="M148.848,51.228a1.81,1.81,0,0,0,2.56,0l6.827-6.827a1.81,1.81,0,1,0-2.56-2.56l-3.737,3.737V25.81a1.81,1.81,0,1,0-3.621,0V45.578l-3.737-3.737a1.81,1.81,0,1,0-2.56,2.56Z" transform="translate(-108.628)" fill="#8f1537"/>
+      <path id="Path_180" data-name="Path 180" d="M57.19,232a1.81,1.81,0,0,0-1.81,1.81V247.69H27.621V233.81a1.81,1.81,0,1,0-3.621,0v14.483a3.017,3.017,0,0,0,3.017,3.017H55.983A3.017,3.017,0,0,0,59,248.293V233.81A1.81,1.81,0,0,0,57.19,232Z" transform="translate(0 -192.31)" fill="#8f1537"/>
+    </g>
+  </g>
+</svg>

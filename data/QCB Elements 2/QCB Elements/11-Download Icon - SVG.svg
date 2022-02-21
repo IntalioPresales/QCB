@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 72" style="enable-background:new 0 0 64 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#8F1537;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="64" height="72"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="QCB_Homepage_1.1_-_AR_8" class="st0">
+		<g id="Solid" transform="translate(-9 -5)">
+			<path id="Path_179" class="st1" d="M40.2,51.2c0.7,0.7,1.9,0.7,2.6,0c0,0,0,0,0,0l6.8-6.8c0.7-0.7,0.7-1.9,0-2.6
+				c-0.7-0.7-1.9-0.7-2.6,0l-3.7,3.7V25.8c0-1-0.8-1.8-1.8-1.8s-1.8,0.8-1.8,1.8v19.8L36,41.8c-0.7-0.7-1.9-0.7-2.6,0
+				c-0.7,0.7-0.7,1.9,0,2.6L40.2,51.2z"/>
+			<path id="Path_180" class="st1" d="M57.2,39.7c-1,0-1.8,0.8-1.8,1.8v13.9H27.6V41.5c0-1-0.8-1.8-1.8-1.8c-1,0-1.8,0.8-1.8,1.8V56
+				c0,1.7,1.4,3,3,3h29c1.7,0,3-1.4,3-3V41.5C59,40.5,58.2,39.7,57.2,39.7z"/>
+		</g>
+	</g>
+</g>
+</svg>
